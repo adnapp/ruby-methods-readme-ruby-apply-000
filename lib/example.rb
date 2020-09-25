@@ -2,9 +2,9 @@
 
 def phrase_hi
   phrase = "Hi"
-  phrase
-  phrase
-  phrase
+  puts phrase
+  puts phrase
+  puts phrase
 end
 puts "break"
-puts phrase_hi
+ phrase_hi
